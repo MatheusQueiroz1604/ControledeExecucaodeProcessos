@@ -1,3 +1,7 @@
+//Integrantes:
+//Matheus Queiroz | RA:12315538
+//Isac Erik Tomaz | RA:123113798
+
 use std::io;
 use std::thread;
 use std::time::Duration;
